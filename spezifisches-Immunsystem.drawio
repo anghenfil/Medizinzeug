@@ -55,6 +55,24 @@
         <mxCell id="V014MJMyBQgIdyG5yzwW-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Apoptose-Auslösung, sezenierung&lt;br&gt;Perforine, Proteasen" vertex="1">
           <mxGeometry height="60" width="120" x="640" y="350" as="geometry" />
         </mxCell>
+        <mxCell id="jiHHfOkpwsY7Qrn74EU--5" edge="1" parent="1" source="jiHHfOkpwsY7Qrn74EU--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="jiHHfOkpwsY7Qrn74EU--4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jiHHfOkpwsY7Qrn74EU--3" parent="1" style="whiteSpace=wrap;html=1;" value="naiver&lt;br&gt;B-Lymphozyt" vertex="1">
+          <mxGeometry height="60" width="120" x="102.5" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="jiHHfOkpwsY7Qrn74EU--7" edge="1" parent="1" source="jiHHfOkpwsY7Qrn74EU--4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="jiHHfOkpwsY7Qrn74EU--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jiHHfOkpwsY7Qrn74EU--4" parent="1" style="whiteSpace=wrap;html=1;" value="B-Zell-Rezeptor (BCR)&amp;nbsp;erkennt Antigen&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="102.5" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="jiHHfOkpwsY7Qrn74EU--6" parent="1" style="whiteSpace=wrap;html=1;" value="internalisiert&lt;br&gt;Antigen &amp;amp; präsentiert es via MHC-II" vertex="1">
+          <mxGeometry height="60" width="120" x="102.5" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="jiHHfOkpwsY7Qrn74EU--8" parent="1" style="whiteSpace=wrap;html=1;" value="CD4+-T-Zelle" vertex="1">
+          <mxGeometry height="60" width="120" x="294" y="650" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
