@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Seite-1" id="tPpIn_nMIDNUY5QPJjmJ">
+    <mxGraphModel dx="1165" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="V014MJMyBQgIdyG5yzwW-3" edge="1" parent="1" source="V014MJMyBQgIdyG5yzwW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="V014MJMyBQgIdyG5yzwW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V014MJMyBQgIdyG5yzwW-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CD8-T-Zelle" vertex="1">
+          <mxGeometry height="30" width="115" x="105" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V014MJMyBQgIdyG5yzwW-5" edge="1" parent="1" source="V014MJMyBQgIdyG5yzwW-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="V014MJMyBQgIdyG5yzwW-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V014MJMyBQgIdyG5yzwW-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="bindet mit CD8-Rezeptor an MHC-I an Zelle" vertex="1">
+          <mxGeometry height="60" width="115" x="105" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="V014MJMyBQgIdyG5yzwW-9" edge="1" parent="1" source="V014MJMyBQgIdyG5yzwW-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="V014MJMyBQgIdyG5yzwW-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V014MJMyBQgIdyG5yzwW-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="tastet mit T-Zell-Rezeptor (TCR) präsentierten Peptid &quot;Fingerabdruck&quot; ab" vertex="1">
+          <mxGeometry height="60" width="120" x="102.5" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="V014MJMyBQgIdyG5yzwW-10" edge="1" parent="1" source="V014MJMyBQgIdyG5yzwW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="V014MJMyBQgIdyG5yzwW-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V014MJMyBQgIdyG5yzwW-13" edge="1" parent="1" source="V014MJMyBQgIdyG5yzwW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="V014MJMyBQgIdyG5yzwW-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V014MJMyBQgIdyG5yzwW-6" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Peptid verändert?" vertex="1">
+          <mxGeometry height="80" width="80" x="122.5" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="V014MJMyBQgIdyG5yzwW-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CD8-T-Zelle wandert weiter" vertex="1">
+          <mxGeometry height="60" width="120" x="102.5" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="V014MJMyBQgIdyG5yzwW-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Nein&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="150" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="V014MJMyBQgIdyG5yzwW-16" edge="1" parent="1" source="V014MJMyBQgIdyG5yzwW-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="V014MJMyBQgIdyG5yzwW-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V014MJMyBQgIdyG5yzwW-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Aktivierung zu Effektorzelle (T-Killer-Zelle)" vertex="1">
+          <mxGeometry height="60" width="120" x="260" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="V014MJMyBQgIdyG5yzwW-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ja" vertex="1">
+          <mxGeometry height="30" width="60" x="200" y="359" as="geometry" />
+        </mxCell>
+        <mxCell id="V014MJMyBQgIdyG5yzwW-18" edge="1" parent="1" source="V014MJMyBQgIdyG5yzwW-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="V014MJMyBQgIdyG5yzwW-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V014MJMyBQgIdyG5yzwW-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bildung von Interleukin-2 (IL-2)" vertex="1">
+          <mxGeometry height="60" width="120" x="450" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="V014MJMyBQgIdyG5yzwW-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Apoptose-Auslösung, sezenierung&lt;br&gt;Perforine, Proteasen" vertex="1">
+          <mxGeometry height="60" width="120" x="640" y="350" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
