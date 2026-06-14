@@ -61,6 +61,9 @@
         <mxCell id="0y22p1n6dgOg2PWJ4gCL-26" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0y22p1n6dgOg2PWJ4gCL-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" target="0y22p1n6dgOg2PWJ4gCL-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="0y22p1n6dgOg2PWJ4gCL-27" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1;fontSize=18;" value="T-Zell-Reifung" vertex="1">
+          <mxGeometry height="30" width="140" x="40" y="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
