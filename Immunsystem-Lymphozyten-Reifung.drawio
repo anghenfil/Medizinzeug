@@ -1,14 +1,65 @@
 <mxfile host="app.diagrams.net">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="845" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1014" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" value="&lt;div&gt;zufällige Rekombination von Genabschnitten&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="120" x="160" y="80" as="geometry" />
+        <mxCell id="0y22p1n6dgOg2PWJ4gCL-2" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;startSize=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=#FFFFFF;labelBorderColor=default;" value="Thymusrinde" vertex="1">
+          <mxGeometry height="340" width="210" x="280" y="90" as="geometry">
+            <mxRectangle height="40" width="50" x="270" y="170" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" value="Plug in lamp" vertex="1">
-          <mxGeometry height="40" width="120" x="510" y="190" as="geometry" />
+        <mxCell id="0y22p1n6dgOg2PWJ4gCL-10" edge="1" parent="0y22p1n6dgOg2PWJ4gCL-2" source="0y22p1n6dgOg2PWJ4gCL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" target="0y22p1n6dgOg2PWJ4gCL-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0y22p1n6dgOg2PWJ4gCL-1" parent="0y22p1n6dgOg2PWJ4gCL-2" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;div&gt;zufällige Rekombination von Genabschnitten&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="0y22p1n6dgOg2PWJ4gCL-14" edge="1" parent="0y22p1n6dgOg2PWJ4gCL-2" source="0y22p1n6dgOg2PWJ4gCL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" target="0y22p1n6dgOg2PWJ4gCL-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0y22p1n6dgOg2PWJ4gCL-9" parent="0y22p1n6dgOg2PWJ4gCL-2" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" value="Bildung von TCR, CD4 und CD8" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0y22p1n6dgOg2PWJ4gCL-13" parent="0y22p1n6dgOg2PWJ4gCL-2" style="rhombus;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="bindet mit&lt;br&gt;CD4 UND&lt;br&gt;CD8 an&amp;nbsp;&lt;br&gt;MHC?" vertex="1">
+          <mxGeometry height="110" width="110" x="45" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="0y22p1n6dgOg2PWJ4gCL-24" parent="0y22p1n6dgOg2PWJ4gCL-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Ja" vertex="1">
+          <mxGeometry height="30" width="60" x="150" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="0y22p1n6dgOg2PWJ4gCL-4" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;startSize=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=#FFFFFF;labelBorderColor=default;" value="Knochenmark" vertex="1">
+          <mxGeometry height="100" width="200" x="40" y="90" as="geometry">
+            <mxRectangle height="40" width="50" x="270" y="170" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0y22p1n6dgOg2PWJ4gCL-5" parent="0y22p1n6dgOg2PWJ4gCL-4" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" value="Bildung einer unreifen T-Zelle" vertex="1">
+          <mxGeometry height="50" width="120" x="40" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0y22p1n6dgOg2PWJ4gCL-15" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;startSize=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=#FFFFFF;labelBorderColor=default;" value="Thymusrinden-Mark-Grenze" vertex="1">
+          <mxGeometry height="260" width="200" x="560" y="90" as="geometry">
+            <mxRectangle height="40" width="50" x="270" y="170" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0y22p1n6dgOg2PWJ4gCL-23" edge="1" parent="0y22p1n6dgOg2PWJ4gCL-15" source="0y22p1n6dgOg2PWJ4gCL-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" target="0y22p1n6dgOg2PWJ4gCL-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0y22p1n6dgOg2PWJ4gCL-17" parent="0y22p1n6dgOg2PWJ4gCL-15" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" value="T-Zelle verliert CD4 ODER CD8" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0y22p1n6dgOg2PWJ4gCL-20" parent="0y22p1n6dgOg2PWJ4gCL-15" style="rhombus;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" value="reagiert auf körpereigene&lt;br&gt;Zellen?" vertex="1">
+          <mxGeometry height="110" width="110" x="45" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="0y22p1n6dgOg2PWJ4gCL-21" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0y22p1n6dgOg2PWJ4gCL-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" target="0y22p1n6dgOg2PWJ4gCL-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0y22p1n6dgOg2PWJ4gCL-22" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0y22p1n6dgOg2PWJ4gCL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" target="0y22p1n6dgOg2PWJ4gCL-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0y22p1n6dgOg2PWJ4gCL-25" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="reife T-Zelle verlässt Thymus" vertex="1">
+          <mxGeometry height="60" width="120" x="600" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="0y22p1n6dgOg2PWJ4gCL-26" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0y22p1n6dgOg2PWJ4gCL-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" target="0y22p1n6dgOg2PWJ4gCL-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
