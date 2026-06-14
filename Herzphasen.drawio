@@ -4,6 +4,114 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ko_gAtAqzbOHRBZizgYn-1" parent="1" style="swimlane;startSize=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=default;labelBorderColor=default;" value="Systole" vertex="1">
+          <mxGeometry height="420" width="480" x="60" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko_gAtAqzbOHRBZizgYn-2" parent="Ko_gAtAqzbOHRBZizgYn-1" style="swimlane;startSize=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=default;labelBorderColor=default;" value="Anspannungsphase" vertex="1">
+          <mxGeometry height="390" width="200" x="10" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko_gAtAqzbOHRBZizgYn-4" parent="Ko_gAtAqzbOHRBZizgYn-2" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Ventrikel kontrahieren" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko_gAtAqzbOHRBZizgYn-7" parent="Ko_gAtAqzbOHRBZizgYn-2" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="AV-Klappen&lt;br&gt;schließen" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko_gAtAqzbOHRBZizgYn-36" edge="1" parent="Ko_gAtAqzbOHRBZizgYn-2" source="Ko_gAtAqzbOHRBZizgYn-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" target="Ko_gAtAqzbOHRBZizgYn-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko_gAtAqzbOHRBZizgYn-35" parent="Ko_gAtAqzbOHRBZizgYn-2" style="rhombus;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Ventrikeldruck &amp;gt; Vorhofdruck" vertex="1">
+          <mxGeometry height="110" width="120" x="40" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko_gAtAqzbOHRBZizgYn-3" parent="Ko_gAtAqzbOHRBZizgYn-1" style="swimlane;startSize=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=default;labelBorderColor=default;" value="Austreibungsphase" vertex="1">
+          <mxGeometry height="390" width="200" x="230" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko_gAtAqzbOHRBZizgYn-45" edge="1" parent="Ko_gAtAqzbOHRBZizgYn-3" source="Ko_gAtAqzbOHRBZizgYn-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" target="Ko_gAtAqzbOHRBZizgYn-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko_gAtAqzbOHRBZizgYn-10" parent="Ko_gAtAqzbOHRBZizgYn-3" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Aortenklappe / Pulmonalklappe öffnen" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko_gAtAqzbOHRBZizgYn-46" edge="1" parent="Ko_gAtAqzbOHRBZizgYn-3" source="Ko_gAtAqzbOHRBZizgYn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" target="Ko_gAtAqzbOHRBZizgYn-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko_gAtAqzbOHRBZizgYn-11" parent="Ko_gAtAqzbOHRBZizgYn-3" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Blut strömt aus den Ventrikeln" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko_gAtAqzbOHRBZizgYn-12" parent="Ko_gAtAqzbOHRBZizgYn-3" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Ventrikeldruck&lt;br&gt;sinkt" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko_gAtAqzbOHRBZizgYn-44" edge="1" parent="Ko_gAtAqzbOHRBZizgYn-3" source="Ko_gAtAqzbOHRBZizgYn-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" target="Ko_gAtAqzbOHRBZizgYn-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko_gAtAqzbOHRBZizgYn-41" parent="Ko_gAtAqzbOHRBZizgYn-3" style="rhombus;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Ventrikeldruck&amp;nbsp;&lt;br&gt;&amp;gt; art. Druck" vertex="1">
+          <mxGeometry height="120" width="130" x="35" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko_gAtAqzbOHRBZizgYn-43" edge="1" parent="Ko_gAtAqzbOHRBZizgYn-1" source="Ko_gAtAqzbOHRBZizgYn-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" target="Ko_gAtAqzbOHRBZizgYn-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko_gAtAqzbOHRBZizgYn-37" edge="1" parent="1" source="Ko_gAtAqzbOHRBZizgYn-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" target="Ko_gAtAqzbOHRBZizgYn-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko_gAtAqzbOHRBZizgYn-5" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Ventrikeldruck&lt;br&gt;steigt" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko_gAtAqzbOHRBZizgYn-24" parent="1" style="swimlane;startSize=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=default;labelBorderColor=default;" value="Diastole" vertex="1">
+          <mxGeometry height="420" width="480" x="560" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko_gAtAqzbOHRBZizgYn-25" parent="Ko_gAtAqzbOHRBZizgYn-24" style="swimlane;startSize=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=default;labelBorderColor=default;" value="Entspannungsphase" vertex="1">
+          <mxGeometry height="390" width="200" x="10" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko_gAtAqzbOHRBZizgYn-28" parent="Ko_gAtAqzbOHRBZizgYn-25" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" value="Ventrikeldruck fällt weiter ab" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko_gAtAqzbOHRBZizgYn-49" edge="1" parent="Ko_gAtAqzbOHRBZizgYn-25" source="Ko_gAtAqzbOHRBZizgYn-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" target="Ko_gAtAqzbOHRBZizgYn-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko_gAtAqzbOHRBZizgYn-47" parent="Ko_gAtAqzbOHRBZizgYn-25" style="rhombus;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" value="Ventrikeldruck&amp;nbsp;&lt;br&gt;&amp;lt; art. Druck" vertex="1">
+          <mxGeometry height="120" width="130" x="35" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko_gAtAqzbOHRBZizgYn-34" parent="Ko_gAtAqzbOHRBZizgYn-25" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" value="AV-Klappen schließen" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko_gAtAqzbOHRBZizgYn-29" parent="Ko_gAtAqzbOHRBZizgYn-24" style="swimlane;startSize=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;labelBackgroundColor=default;labelBorderColor=default;" value="Füllungsphase" vertex="1">
+          <mxGeometry height="390" width="200" x="230" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko_gAtAqzbOHRBZizgYn-58" edge="1" parent="Ko_gAtAqzbOHRBZizgYn-29" source="Ko_gAtAqzbOHRBZizgYn-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" target="Ko_gAtAqzbOHRBZizgYn-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko_gAtAqzbOHRBZizgYn-31" parent="Ko_gAtAqzbOHRBZizgYn-29" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" value="AV-Klappen öffnen sich" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko_gAtAqzbOHRBZizgYn-57" edge="1" parent="Ko_gAtAqzbOHRBZizgYn-29" source="Ko_gAtAqzbOHRBZizgYn-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" target="Ko_gAtAqzbOHRBZizgYn-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko_gAtAqzbOHRBZizgYn-33" parent="Ko_gAtAqzbOHRBZizgYn-29" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" value="Blut strömt &lt;b&gt;passiv&lt;/b&gt; aus Vorhöfen in die Ventrikel" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko_gAtAqzbOHRBZizgYn-55" edge="1" parent="Ko_gAtAqzbOHRBZizgYn-29" source="Ko_gAtAqzbOHRBZizgYn-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" target="Ko_gAtAqzbOHRBZizgYn-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko_gAtAqzbOHRBZizgYn-51" parent="Ko_gAtAqzbOHRBZizgYn-29" style="rhombus;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" value="Ventrikeldruck &amp;lt;&lt;br&gt;Vorhofdruck" vertex="1">
+          <mxGeometry height="110" width="120" x="40" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko_gAtAqzbOHRBZizgYn-56" parent="Ko_gAtAqzbOHRBZizgYn-29" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Vorhöfe kontrahieren" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="314" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko_gAtAqzbOHRBZizgYn-39" edge="1" parent="1" source="Ko_gAtAqzbOHRBZizgYn-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" target="Ko_gAtAqzbOHRBZizgYn-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko_gAtAqzbOHRBZizgYn-48" edge="1" parent="1" source="Ko_gAtAqzbOHRBZizgYn-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" target="Ko_gAtAqzbOHRBZizgYn-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko_gAtAqzbOHRBZizgYn-54" edge="1" parent="1" source="Ko_gAtAqzbOHRBZizgYn-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" target="Ko_gAtAqzbOHRBZizgYn-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko_gAtAqzbOHRBZizgYn-52" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Ventrikel &quot;entspannen&quot; sich" vertex="1">
+          <mxGeometry height="60" width="120" x="610" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="Ko_gAtAqzbOHRBZizgYn-53" edge="1" parent="1" source="Ko_gAtAqzbOHRBZizgYn-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" target="Ko_gAtAqzbOHRBZizgYn-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
