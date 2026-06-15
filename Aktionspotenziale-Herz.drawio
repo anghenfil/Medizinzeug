@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Schrittmacherzellen" id="J2O2VLIk1TTmUUXB8McG">
-    <mxGraphModel dx="972" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1372" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="u8z77GUm19_cF35wcTu8-1" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Aktionspotenziale in Schrittmacherzellen&lt;/h1&gt;" vertex="1">
-          <mxGeometry height="50" width="1080" x="40" y="40" as="geometry" />
+          <mxGeometry height="50" width="520" x="40" y="40" as="geometry" />
         </mxCell>
         <mxCell id="u8z77GUm19_cF35wcTu8-22" edge="1" parent="1" source="u8z77GUm19_cF35wcTu8-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" target="u8z77GUm19_cF35wcTu8-20">
           <mxGeometry relative="1" as="geometry" />
@@ -69,6 +69,9 @@
         </mxCell>
         <mxCell id="u8z77GUm19_cF35wcTu8-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" value="ca. +30 mV" vertex="1">
           <mxGeometry height="30" width="60" x="430" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="u8z77GUm19_cF35wcTu8-37" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Aktionspotenziale in Herzmuskelzellen&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="50" width="520" x="560" y="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
