@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" pages="2">
-  <diagram name="Seite-1" id="3T6dmeuWG0E3CaiEe-1n">
+<mxfile host="app.diagrams.net" pages="3">
+  <diagram name="MHC-I-Exprimierung" id="3T6dmeuWG0E3CaiEe-1n">
     <mxGraphModel dx="845" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -40,7 +40,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="tynh-w_Clg08NaHFo_Ma" name="Seite-2">
+  <diagram id="tynh-w_Clg08NaHFo_Ma" name="MHC-I-Bindung">
     <mxGraphModel dx="1014" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -92,6 +92,14 @@
         <mxCell id="N4ZDYoAh5sixfcmAg5sp-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontColor=#143642;" value="Nein" vertex="1">
           <mxGeometry height="30" width="60" x="552" y="124" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="MgF9S5aiVnXA6TXLdoeI" name="Seite-3">
+    <mxGraphModel dx="1014" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
