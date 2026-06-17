@@ -35,7 +35,7 @@
           <mxGeometry height="60" width="120" x="350" y="260" as="geometry" />
         </mxCell>
         <mxCell id="vtuHTFCv5K9JY3mDgwnT-7" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="MHC-I wird zur Zellmembran transportiert &amp;amp; eingebaut" vertex="1">
-          <mxGeometry height="60" width="120" x="170" y="260" as="geometry" />
+          <mxGeometry height="75" width="120" x="170" y="252.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
