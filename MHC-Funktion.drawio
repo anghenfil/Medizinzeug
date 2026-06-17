@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" pages="3">
+<mxfile host="app.diagrams.net" pages="4">
   <diagram name="MHC-I-Exprimierung" id="3T6dmeuWG0E3CaiEe-1n">
     <mxGraphModel dx="845" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -95,7 +95,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="MgF9S5aiVnXA6TXLdoeI" name="Seite-3">
+  <diagram id="MgF9S5aiVnXA6TXLdoeI" name="MHC-II-Exprimierung">
     <mxGraphModel dx="845" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -165,6 +165,67 @@
         </mxCell>
         <mxCell id="NnczBv9GLEV1aPex-jyl-11" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#0F8B8D;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#143642;fillColor=#FAE5C7;fontStyle=1" value="Transport zur Zellmembran &amp;amp; Einbau" vertex="1">
           <mxGeometry height="60" width="120" x="720" y="420" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="MHC-II-Bindung" id="rMBxOZNaA6UcEdkyqdqv">
+    <mxGraphModel dx="699" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="5an6DmMAvtiDrNc6h_Eb-0" />
+        <mxCell id="5an6DmMAvtiDrNc6h_Eb-1" parent="5an6DmMAvtiDrNc6h_Eb-0" />
+        <mxCell id="5an6DmMAvtiDrNc6h_Eb-2" edge="1" parent="5an6DmMAvtiDrNc6h_Eb-1" source="5an6DmMAvtiDrNc6h_Eb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontColor=#143642;fillColor=#FAE5C7;" target="5an6DmMAvtiDrNc6h_Eb-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5an6DmMAvtiDrNc6h_Eb-3" parent="5an6DmMAvtiDrNc6h_Eb-1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#0F8B8D;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontColor=#143642;fillColor=#FAE5C7;" value="CD4-T-Lymphozyt&amp;nbsp; begegnet Zelle" vertex="1">
+          <mxGeometry height="60" width="120" x="140" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5an6DmMAvtiDrNc6h_Eb-4" edge="1" parent="5an6DmMAvtiDrNc6h_Eb-1" source="5an6DmMAvtiDrNc6h_Eb-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontColor=#143642;fillColor=#FAE5C7;" target="5an6DmMAvtiDrNc6h_Eb-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5an6DmMAvtiDrNc6h_Eb-5" parent="5an6DmMAvtiDrNc6h_Eb-1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#0F8B8D;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontColor=#143642;fillColor=#FAE5C7;" value="CD4-T-Lymphozyt bindet lose mit T-Zell-Rezeptor an MHC-I" vertex="1">
+          <mxGeometry height="60" width="120" x="310" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5an6DmMAvtiDrNc6h_Eb-6" edge="1" parent="5an6DmMAvtiDrNc6h_Eb-1" source="5an6DmMAvtiDrNc6h_Eb-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontColor=#143642;fillColor=#FAE5C7;" target="5an6DmMAvtiDrNc6h_Eb-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5an6DmMAvtiDrNc6h_Eb-7" edge="1" parent="5an6DmMAvtiDrNc6h_Eb-1" source="5an6DmMAvtiDrNc6h_Eb-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontColor=#143642;fillColor=#FAE5C7;" target="5an6DmMAvtiDrNc6h_Eb-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5an6DmMAvtiDrNc6h_Eb-8" parent="5an6DmMAvtiDrNc6h_Eb-1" style="rhombus;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#0F8B8D;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontColor=#143642;fillColor=#FAE5C7;" value="überein-stimmendes Antigen?" vertex="1">
+          <mxGeometry height="80" width="80" x="485" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="5an6DmMAvtiDrNc6h_Eb-9" edge="1" parent="5an6DmMAvtiDrNc6h_Eb-1" source="5an6DmMAvtiDrNc6h_Eb-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontColor=#143642;fillColor=#FAE5C7;" target="5an6DmMAvtiDrNc6h_Eb-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5an6DmMAvtiDrNc6h_Eb-10" parent="5an6DmMAvtiDrNc6h_Eb-1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#0F8B8D;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontColor=#143642;fillColor=#FAE5C7;" value="Dauerhafte Bindung" vertex="1">
+          <mxGeometry height="60" width="120" x="465" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="q-i04zugdm1ql7H0EvCm-1" edge="1" parent="5an6DmMAvtiDrNc6h_Eb-1" source="5an6DmMAvtiDrNc6h_Eb-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#A8201A;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#143642;fillColor=#FAE5C7;" target="q-i04zugdm1ql7H0EvCm-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5an6DmMAvtiDrNc6h_Eb-11" parent="5an6DmMAvtiDrNc6h_Eb-1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#0F8B8D;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontColor=#143642;fillColor=#FAE5C7;" value="Sezernierung von Zytokinen" vertex="1">
+          <mxGeometry height="60" width="120" x="465" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="5an6DmMAvtiDrNc6h_Eb-12" parent="5an6DmMAvtiDrNc6h_Eb-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontColor=#143642;" value="Ja" vertex="1">
+          <mxGeometry height="30" width="60" x="510" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="5an6DmMAvtiDrNc6h_Eb-13" edge="1" parent="5an6DmMAvtiDrNc6h_Eb-1" source="5an6DmMAvtiDrNc6h_Eb-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#A8201A;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontColor=#143642;fillColor=#FAE5C7;" target="5an6DmMAvtiDrNc6h_Eb-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="80" />
+              <mxPoint x="200" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5an6DmMAvtiDrNc6h_Eb-14" parent="5an6DmMAvtiDrNc6h_Eb-1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#0F8B8D;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontColor=#143642;fillColor=#FAE5C7;" value="T-Zelle löst sich und wandert weiter" vertex="1">
+          <mxGeometry height="60" width="120" x="610" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5an6DmMAvtiDrNc6h_Eb-15" parent="5an6DmMAvtiDrNc6h_Eb-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Architects Daughter;fontSource=https://fonts.googleapis.com/css?family=Architects+Daughter;fontColor=#143642;" value="Nein" vertex="1">
+          <mxGeometry height="30" width="60" x="552" y="124" as="geometry" />
+        </mxCell>
+        <mxCell id="q-i04zugdm1ql7H0EvCm-0" parent="5an6DmMAvtiDrNc6h_Eb-1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#0F8B8D;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#143642;fillColor=#FAE5C7;" value="Aktivierung T-Zellen, B-Zellen, NK-Zellen" vertex="1">
+          <mxGeometry height="60" width="120" x="465" y="430" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
