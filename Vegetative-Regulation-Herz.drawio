@@ -1,11 +1,113 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Seite-1" id="7kFzmezVoUsXThtVCVX7">
-    <mxGraphModel dx="716" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1044" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7TQIvVTktowouFX5eWC7-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" value="Sympathikus Aktivierung" vertex="1">
-          <mxGeometry height="60" width="120" x="300" y="120" as="geometry" />
+        <mxCell id="nBZC7eie6GeJRXDUhHIa-21" edge="1" parent="1" source="7TQIvVTktowouFX5eWC7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#143642;fillColor=#FAE5C7;" target="nBZC7eie6GeJRXDUhHIa-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7TQIvVTktowouFX5eWC7-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;fontStyle=1" value="Sympathikus Aktivierung" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nBZC7eie6GeJRXDUhHIa-22" edge="1" parent="1" source="nBZC7eie6GeJRXDUhHIa-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#143642;fillColor=#FAE5C7;" target="nBZC7eie6GeJRXDUhHIa-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nBZC7eie6GeJRXDUhHIa-1" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#0F8B8D;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#143642;fillColor=#FAE5C7;fontStyle=1" value="Freisetzung von Noradrenalin + Adrenalin" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="nBZC7eie6GeJRXDUhHIa-23" edge="1" parent="1" source="nBZC7eie6GeJRXDUhHIa-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#143642;fillColor=#FAE5C7;" target="nBZC7eie6GeJRXDUhHIa-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nBZC7eie6GeJRXDUhHIa-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#0F8B8D;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#143642;fillColor=#FAE5C7;fontStyle=1" value="Bindung an β&lt;sub&gt;1&lt;/sub&gt;-Adrenorezeptoren" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="nBZC7eie6GeJRXDUhHIa-24" edge="1" parent="1" source="nBZC7eie6GeJRXDUhHIa-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#143642;fillColor=#FAE5C7;" target="nBZC7eie6GeJRXDUhHIa-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nBZC7eie6GeJRXDUhHIa-3" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#0F8B8D;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#143642;fillColor=#FAE5C7;fontStyle=1" value="Aktivierung G&lt;sub&gt;S&lt;/sub&gt;-Protein (GTP-bindendes Protein)" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="nBZC7eie6GeJRXDUhHIa-25" edge="1" parent="1" source="nBZC7eie6GeJRXDUhHIa-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#A8201A;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#143642;fillColor=#FAE5C7;" target="nBZC7eie6GeJRXDUhHIa-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nBZC7eie6GeJRXDUhHIa-4" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#0F8B8D;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#143642;fillColor=#FAE5C7;fontStyle=1" value="Aktivierung Adenylatzyklase" vertex="1">
+          <mxGeometry height="60" width="120" x="220" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="nBZC7eie6GeJRXDUhHIa-26" edge="1" parent="1" source="nBZC7eie6GeJRXDUhHIa-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#143642;fillColor=#FAE5C7;" target="nBZC7eie6GeJRXDUhHIa-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nBZC7eie6GeJRXDUhHIa-27" edge="1" parent="1" source="nBZC7eie6GeJRXDUhHIa-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#143642;fillColor=#FAE5C7;" target="nBZC7eie6GeJRXDUhHIa-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nBZC7eie6GeJRXDUhHIa-5" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#0F8B8D;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#143642;fillColor=#FAE5C7;fontStyle=1" value="Umwandlung&amp;nbsp;&lt;br&gt;ATP -&amp;gt; cAMP" vertex="1">
+          <mxGeometry height="60" width="120" x="390" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="nBZC7eie6GeJRXDUhHIa-31" edge="1" parent="1" source="nBZC7eie6GeJRXDUhHIa-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#A8201A;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#143642;fillColor=#FAE5C7;" target="nBZC7eie6GeJRXDUhHIa-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nBZC7eie6GeJRXDUhHIa-7" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#0F8B8D;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#143642;fillColor=#FAE5C7;fontStyle=1" value="Proteinkinase A ⇑&lt;br&gt;(PKA)" vertex="1">
+          <mxGeometry height="60" width="120" x="560" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="nBZC7eie6GeJRXDUhHIa-28" edge="1" parent="1" source="nBZC7eie6GeJRXDUhHIa-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#143642;fillColor=#FAE5C7;" target="nBZC7eie6GeJRXDUhHIa-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nBZC7eie6GeJRXDUhHIa-8" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#0F8B8D;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#143642;fillColor=#FAE5C7;" value="vermehrte Öffnung &lt;b&gt;HCN-Kanäle&lt;/b&gt; (funny channels)" vertex="1">
+          <mxGeometry height="60" width="120" x="390" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="nBZC7eie6GeJRXDUhHIa-29" edge="1" parent="1" source="nBZC7eie6GeJRXDUhHIa-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#143642;fillColor=#FAE5C7;" target="nBZC7eie6GeJRXDUhHIa-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nBZC7eie6GeJRXDUhHIa-9" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#0F8B8D;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#143642;fillColor=#FAE5C7;fontStyle=1" value="I&lt;sub&gt;f&lt;/sub&gt;-Strom ⇑" vertex="1">
+          <mxGeometry height="60" width="120" x="390" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="nBZC7eie6GeJRXDUhHIa-30" edge="1" parent="1" source="nBZC7eie6GeJRXDUhHIa-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#143642;fillColor=#FAE5C7;" target="nBZC7eie6GeJRXDUhHIa-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nBZC7eie6GeJRXDUhHIa-11" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#0F8B8D;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#143642;fillColor=#FAE5C7;" value="Schnellere Erreichung des Schwellenpotenzials" vertex="1">
+          <mxGeometry height="60" width="120" x="390" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="nBZC7eie6GeJRXDUhHIa-12" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#0F8B8D;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#143642;fillColor=#FAE5C7;fontStyle=1" value="positiv chronotroper Effekt" vertex="1">
+          <mxGeometry height="60" width="120" x="390" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="nBZC7eie6GeJRXDUhHIa-32" edge="1" parent="1" source="nBZC7eie6GeJRXDUhHIa-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#143642;fillColor=#FAE5C7;" target="nBZC7eie6GeJRXDUhHIa-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nBZC7eie6GeJRXDUhHIa-13" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#0F8B8D;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#143642;fillColor=#FAE5C7;" value="vermehrte Öffnung L-Typ-Ca²⁺-Kanäle" vertex="1">
+          <mxGeometry height="60" width="120" x="730" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="nBZC7eie6GeJRXDUhHIa-33" edge="1" parent="1" source="nBZC7eie6GeJRXDUhHIa-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#143642;fillColor=#FAE5C7;" target="nBZC7eie6GeJRXDUhHIa-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nBZC7eie6GeJRXDUhHIa-14" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#0F8B8D;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#143642;fillColor=#FAE5C7;" value="vermehrter Ca²⁺-Einstrom aus Extrazellularraum" vertex="1">
+          <mxGeometry height="60" width="120" x="730" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="nBZC7eie6GeJRXDUhHIa-34" edge="1" parent="1" source="nBZC7eie6GeJRXDUhHIa-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#143642;fillColor=#FAE5C7;" target="nBZC7eie6GeJRXDUhHIa-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nBZC7eie6GeJRXDUhHIa-15" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#0F8B8D;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#143642;fillColor=#FAE5C7;" value="vermehrte Ca²⁺-Freisetzung aus Sarkoplasmatischem Retikulum" vertex="1">
+          <mxGeometry height="60" width="120" x="730" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="nBZC7eie6GeJRXDUhHIa-35" edge="1" parent="1" source="nBZC7eie6GeJRXDUhHIa-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#143642;fillColor=#FAE5C7;" target="nBZC7eie6GeJRXDUhHIa-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nBZC7eie6GeJRXDUhHIa-16" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#0F8B8D;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#143642;fillColor=#FAE5C7;" value="Aktin-Bindungsstellen werden frei" vertex="1">
+          <mxGeometry height="60" width="120" x="570" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="nBZC7eie6GeJRXDUhHIa-36" edge="1" parent="1" source="nBZC7eie6GeJRXDUhHIa-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#A8201A;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#143642;fillColor=#FAE5C7;" target="nBZC7eie6GeJRXDUhHIa-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nBZC7eie6GeJRXDUhHIa-17" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#0F8B8D;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#143642;fillColor=#FAE5C7;" value="Aktivierungsgrad der Muskelzellen ⇑" vertex="1">
+          <mxGeometry height="60" width="120" x="410" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="nBZC7eie6GeJRXDUhHIa-18" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#0F8B8D;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#143642;fillColor=#FAE5C7;fontStyle=1" value="positiv&amp;nbsp;&lt;span&gt;ionotrope Wirkung&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="nBZC7eie6GeJRXDUhHIa-19" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#0F8B8D;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#143642;fillColor=#FAE5C7;" value="Beschleunigung Aufstrich des Aktionspotenzials" vertex="1">
+          <mxGeometry height="60" width="120" x="730" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nBZC7eie6GeJRXDUhHIa-20" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=#0F8B8D;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#143642;fillColor=#FAE5C7;" value="positiv dromotrope Wirkung" vertex="1">
+          <mxGeometry height="60" width="120" x="910" y="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
