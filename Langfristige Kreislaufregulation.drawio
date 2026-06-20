@@ -1,0 +1,28 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Seite-1" id="3vT7BCa4hSV5cuEZ7M_v">
+    <mxGraphModel dx="483" dy="300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BMsZ626boooxKEdj5vMw-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Renaler Perfusionsdruck sinkt unter 80 mmHg" vertex="1">
+          <mxGeometry height="60" width="140" x="170" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="BMsZ626boooxKEdj5vMw-3" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Freisetzung Renin" vertex="1">
+          <mxGeometry height="60" width="120" x="180" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="BMsZ626boooxKEdj5vMw-4" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Renin wandelt Angiotensinogen -&amp;gt; Angiotensin I um" vertex="1">
+          <mxGeometry height="60" width="120" x="180" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="BMsZ626boooxKEdj5vMw-5" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Angiotensin Converting Enzyme (ACE) spaltet C-terminale Aminosäuren ab" vertex="1">
+          <mxGeometry height="60" width="150" x="165" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="BMsZ626boooxKEdj5vMw-7" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Umwandlung Angiotensin I -&amp;gt; Angiotensin II" vertex="1">
+          <mxGeometry height="60" width="120" x="180" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="BMsZ626boooxKEdj5vMw-8" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Freisetzung von Aldosteron aus Nierennebenrinden" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="490" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
