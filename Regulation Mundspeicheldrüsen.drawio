@@ -1,0 +1,93 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Seite-1" id="DRBwVadk1IIByj58Lf3f">
+    <mxGraphModel dx="1067" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zjfOSOyTKbUl4MnX8SOM-4" edge="1" parent="1" source="zjfOSOyTKbUl4MnX8SOM-1" style="rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;curved=0;exitX=0.5;exitY=1;entryX=0.5;entryY=0;edgeStyle=orthogonalEdgeStyle;" target="zjfOSOyTKbUl4MnX8SOM-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="107" y="95" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zjfOSOyTKbUl4MnX8SOM-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Parasympathikus Aktivierung" vertex="1">
+          <mxGeometry height="60" width="120" x="47" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zjfOSOyTKbUl4MnX8SOM-8" edge="1" parent="1" source="zjfOSOyTKbUl4MnX8SOM-3" style="rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;curved=0;exitX=0.5;exitY=1;entryX=0.5;entryY=0;edgeStyle=orthogonalEdgeStyle;" target="zjfOSOyTKbUl4MnX8SOM-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="107" y="185" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zjfOSOyTKbUl4MnX8SOM-3" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Ausschüttung &lt;b&gt;Acetylcholin&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="47" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zjfOSOyTKbUl4MnX8SOM-9" edge="1" parent="1" source="zjfOSOyTKbUl4MnX8SOM-5" style="rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;curved=0;exitX=0.5;exitY=1;entryX=0.5;entryY=0;edgeStyle=orthogonalEdgeStyle;" target="zjfOSOyTKbUl4MnX8SOM-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="107" y="295" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zjfOSOyTKbUl4MnX8SOM-5" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;div&gt;Drüsenendstückzellen:&lt;/div&gt;&lt;div&gt;Bindung &lt;b&gt;muskarinerge, Atropin-hemmbare M&lt;sub&gt;3&lt;/sub&gt;-Acetylcholinrezeptoren&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="27" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="zjfOSOyTKbUl4MnX8SOM-20" edge="1" parent="1" source="zjfOSOyTKbUl4MnX8SOM-6" style="rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;curved=0;exitX=0.5;exitY=1;entryX=0.5;entryY=0;edgeStyle=orthogonalEdgeStyle;" target="zjfOSOyTKbUl4MnX8SOM-7" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="107" y="385" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zjfOSOyTKbUl4MnX8SOM-6" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Aktivierung&amp;nbsp;&lt;br&gt;&lt;b&gt;G&lt;sub&gt;q&lt;/sub&gt;-Protein&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="47" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="zjfOSOyTKbUl4MnX8SOM-21" edge="1" parent="1" source="zjfOSOyTKbUl4MnX8SOM-7" style="rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;curved=0;exitX=0.5;exitY=1;entryX=0.5;entryY=0;edgeStyle=orthogonalEdgeStyle;" target="zjfOSOyTKbUl4MnX8SOM-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="107" y="475" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zjfOSOyTKbUl4MnX8SOM-7" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Aktivierung&lt;br&gt;&lt;b&gt;Phospholipase C&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="47" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="zjfOSOyTKbUl4MnX8SOM-22" edge="1" parent="1" source="zjfOSOyTKbUl4MnX8SOM-11" style="rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;curved=0;exitX=0.5;exitY=1;entryX=0.5;entryY=0;edgeStyle=orthogonalEdgeStyle;" target="zjfOSOyTKbUl4MnX8SOM-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="107" y="565" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zjfOSOyTKbUl4MnX8SOM-11" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;b&gt;IP&lt;sub&gt;3&lt;/sub&gt;&lt;/b&gt;&amp;nbsp;⇑&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="47" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="zjfOSOyTKbUl4MnX8SOM-18" edge="1" parent="1" source="zjfOSOyTKbUl4MnX8SOM-12" style="rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;curved=0;exitX=0.5;exitY=1;entryX=0.5;entryY=0;edgeStyle=orthogonalEdgeStyle;" target="zjfOSOyTKbUl4MnX8SOM-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="107" y="655" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zjfOSOyTKbUl4MnX8SOM-12" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="intrazelluläre &lt;b&gt;Ca²⁺&lt;/b&gt;-Konzentration ⇑" vertex="1">
+          <mxGeometry height="60" width="120" x="47" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="zjfOSOyTKbUl4MnX8SOM-19" edge="1" parent="1" source="zjfOSOyTKbUl4MnX8SOM-13" style="rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;curved=0;exitX=0.5;exitY=1;entryX=0.5;entryY=0;edgeStyle=orthogonalEdgeStyle;" target="zjfOSOyTKbUl4MnX8SOM-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="107" y="745" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zjfOSOyTKbUl4MnX8SOM-13" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Aktivierung &lt;b&gt;basolaterale K⁺- und luminale Cl⁻-Kanäle&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="47" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="zjfOSOyTKbUl4MnX8SOM-15" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Hyperpolarisierung &amp;amp; Erhöhung Triebkraft &lt;b&gt;Cl⁻ Sekretion&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="32" y="760" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
