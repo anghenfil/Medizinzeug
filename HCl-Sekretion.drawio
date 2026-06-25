@@ -1,9 +1,36 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Seite-1" id="ZkxCS-knbjv807ul3-xC">
-    <mxGraphModel>
+    <mxGraphModel dx="699" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Gn51nUAQPkRAiKk4klVY-2" parent="1" style="swimlane;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="kephale Phase" vertex="1">
+          <mxGeometry height="570" width="510" x="110" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Gn51nUAQPkRAiKk4klVY-5" edge="1" parent="Gn51nUAQPkRAiKk4klVY-2" source="Gn51nUAQPkRAiKk4klVY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" target="Gn51nUAQPkRAiKk4klVY-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gn51nUAQPkRAiKk4klVY-3" parent="Gn51nUAQPkRAiKk4klVY-2" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Vorstellung/Geruch/Geschmack von Essen" vertex="1">
+          <mxGeometry height="60" width="120" x="170" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Gn51nUAQPkRAiKk4klVY-4" parent="Gn51nUAQPkRAiKk4klVY-2" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="aktivierung parasympathischer Fasern" vertex="1">
+          <mxGeometry height="60" width="120" x="170" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Gn51nUAQPkRAiKk4klVY-6" parent="Gn51nUAQPkRAiKk4klVY-2" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Ausschüttung Acetylcholin" vertex="1">
+          <mxGeometry height="60" width="120" x="170" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Gn51nUAQPkRAiKk4klVY-7" parent="Gn51nUAQPkRAiKk4klVY-2" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Bindung &lt;b&gt;cholinerger M&lt;sub&gt;3&lt;/sub&gt;-Rezeptor&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="170" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="Gn51nUAQPkRAiKk4klVY-8" parent="Gn51nUAQPkRAiKk4klVY-2" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Stimulation der &lt;b&gt;Parietalzelle&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="Gn51nUAQPkRAiKk4klVY-9" parent="Gn51nUAQPkRAiKk4klVY-2" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Stimulation &lt;b&gt;ECL-Zellen&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="170" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="Gn51nUAQPkRAiKk4klVY-10" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;b&gt;Histamin&lt;/b&gt;&lt;br&gt;Freisetzung" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="650" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
