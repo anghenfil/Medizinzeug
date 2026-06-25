@@ -1,9 +1,96 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Seite-1" id="ey3t9IXDo93j5PSq9fwC">
-    <mxGraphModel>
+    <mxGraphModel dx="845" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BMKNRK3t5NuxuYZZY4nv-9" edge="1" parent="1" source="BMKNRK3t5NuxuYZZY4nv-1" style="rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=1;entryX=0.5;entryY=0;edgeStyle=orthogonalEdgeStyle;" target="BMKNRK3t5NuxuYZZY4nv-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="303" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BMKNRK3t5NuxuYZZY4nv-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;b&gt;parasympathische&lt;/b&gt; Stimulation" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="BMKNRK3t5NuxuYZZY4nv-10" edge="1" parent="1" source="BMKNRK3t5NuxuYZZY4nv-2" style="rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=1;entryX=0.5;entryY=0;edgeStyle=orthogonalEdgeStyle;" target="BMKNRK3t5NuxuYZZY4nv-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="383" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BMKNRK3t5NuxuYZZY4nv-2" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;b&gt;Acetylcholin&lt;/b&gt;&lt;br&gt;Ausschüttung" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="BMKNRK3t5NuxuYZZY4nv-11" edge="1" parent="1" source="BMKNRK3t5NuxuYZZY4nv-3" style="rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=1;entryX=0.5;entryY=0;edgeStyle=orthogonalEdgeStyle;" target="BMKNRK3t5NuxuYZZY4nv-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="463" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BMKNRK3t5NuxuYZZY4nv-3" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Bindung an &lt;b&gt;M&lt;sub&gt;3&lt;/sub&gt;-Cholinorezeptoren&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="BMKNRK3t5NuxuYZZY4nv-4" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Stimulation der &lt;b&gt;Endstückzellen&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="BMKNRK3t5NuxuYZZY4nv-13" edge="1" parent="1" source="BMKNRK3t5NuxuYZZY4nv-6" style="rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=1;entryX=0.5;entryY=0;edgeStyle=orthogonalEdgeStyle;" target="BMKNRK3t5NuxuYZZY4nv-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="325" y="303" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BMKNRK3t5NuxuYZZY4nv-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Anstieg&amp;nbsp;&lt;br&gt;&lt;b&gt;Aminosäuren- &amp;amp; Fettsäuren-Konzentration&lt;/b&gt;&amp;nbsp;im Dünndarm" vertex="1">
+          <mxGeometry height="60" width="170" x="240" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="BMKNRK3t5NuxuYZZY4nv-12" edge="1" parent="1" source="BMKNRK3t5NuxuYZZY4nv-7" style="rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=1;entryX=0.5;entryY=0;edgeStyle=orthogonalEdgeStyle;" target="BMKNRK3t5NuxuYZZY4nv-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="325" y="383" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BMKNRK3t5NuxuYZZY4nv-7" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;div&gt;&lt;b&gt;Cholecystokinin&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Ausschüttung&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="265" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="BMKNRK3t5NuxuYZZY4nv-19" edge="1" parent="1" source="BMKNRK3t5NuxuYZZY4nv-8" style="rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=1;entryX=0.6958;entryY=0;edgeStyle=orthogonalEdgeStyle;" target="BMKNRK3t5NuxuYZZY4nv-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="325" y="470" />
+              <mxPoint x="184" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BMKNRK3t5NuxuYZZY4nv-8" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Bindung an &lt;b&gt;CCK-Rezeptoren&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="265" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="BMKNRK3t5NuxuYZZY4nv-16" edge="1" parent="1" source="BMKNRK3t5NuxuYZZY4nv-14" style="rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=1;entryX=0.5;entryY=0;edgeStyle=orthogonalEdgeStyle;" target="BMKNRK3t5NuxuYZZY4nv-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="283" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BMKNRK3t5NuxuYZZY4nv-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1" value="pH-Abfall im Dünndarm" vertex="1">
+          <mxGeometry height="60" width="120" x="430" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="BMKNRK3t5NuxuYZZY4nv-18" edge="1" parent="1" source="BMKNRK3t5NuxuYZZY4nv-15" style="rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=1;entryX=0.5;entryY=0;edgeStyle=orthogonalEdgeStyle;" target="BMKNRK3t5NuxuYZZY4nv-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="363" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BMKNRK3t5NuxuYZZY4nv-15" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;div&gt;&lt;b&gt;Sekretin&lt;/b&gt;&lt;/div&gt;Ausschüttung" vertex="1">
+          <mxGeometry height="60" width="120" x="430" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="BMKNRK3t5NuxuYZZY4nv-17" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Stimulation der&lt;br&gt;&lt;b&gt;Ausführungsgang&lt;/b&gt;-zellen" vertex="1">
+          <mxGeometry height="60" width="120" x="430" y="380" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
