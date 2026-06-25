@@ -71,25 +71,25 @@
         <mxCell id="BMKNRK3t5NuxuYZZY4nv-16" edge="1" parent="1" source="BMKNRK3t5NuxuYZZY4nv-14" style="rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=1;entryX=0.5;entryY=0;edgeStyle=orthogonalEdgeStyle;" target="BMKNRK3t5NuxuYZZY4nv-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="490" y="283" />
+              <mxPoint x="490" y="303" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="BMKNRK3t5NuxuYZZY4nv-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1" value="pH-Abfall im Dünndarm" vertex="1">
-          <mxGeometry height="60" width="120" x="430" y="220" as="geometry" />
+          <mxGeometry height="60" width="120" x="430" y="240" as="geometry" />
         </mxCell>
         <mxCell id="BMKNRK3t5NuxuYZZY4nv-18" edge="1" parent="1" source="BMKNRK3t5NuxuYZZY4nv-15" style="rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=1;entryX=0.5;entryY=0;edgeStyle=orthogonalEdgeStyle;" target="BMKNRK3t5NuxuYZZY4nv-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="490" y="363" />
+              <mxPoint x="490" y="383" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="BMKNRK3t5NuxuYZZY4nv-15" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="&lt;div&gt;&lt;b&gt;Sekretin&lt;/b&gt;&lt;/div&gt;Ausschüttung" vertex="1">
-          <mxGeometry height="60" width="120" x="430" y="300" as="geometry" />
+          <mxGeometry height="60" width="120" x="430" y="320" as="geometry" />
         </mxCell>
         <mxCell id="BMKNRK3t5NuxuYZZY4nv-17" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Stimulation der&lt;br&gt;&lt;b&gt;Ausführungsgang&lt;/b&gt;-zellen" vertex="1">
-          <mxGeometry height="60" width="120" x="430" y="380" as="geometry" />
+          <mxGeometry height="60" width="120" x="430" y="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
