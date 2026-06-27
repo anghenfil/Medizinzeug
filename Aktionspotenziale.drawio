@@ -1,11 +1,68 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Seite-1" id="2Yha8y57KFrDJf9KuFQW">
-    <mxGraphModel dx="597" dy="300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1790" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rHyIAD6YpS_ce0xGS5oZ-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="tUDWqIW4GXrgs1DTi4tS-6" edge="1" parent="1" source="rHyIAD6YpS_ce0xGS5oZ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tUDWqIW4GXrgs1DTi4tS-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rHyIAD6YpS_ce0xGS5oZ-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Depolarisation erreicht Axonhügel" vertex="1">
           <mxGeometry height="60" width="120" x="370" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="tUDWqIW4GXrgs1DTi4tS-7" edge="1" parent="1" source="tUDWqIW4GXrgs1DTi4tS-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="tUDWqIW4GXrgs1DTi4tS-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tUDWqIW4GXrgs1DTi4tS-1" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="&lt;b&gt;Schwellen-&lt;br&gt;potenzial&amp;nbsp;&lt;/b&gt;&lt;br&gt;erreicht?" vertex="1">
+          <mxGeometry height="100" width="110" x="375" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="tUDWqIW4GXrgs1DTi4tS-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ja" vertex="1">
+          <mxGeometry height="30" width="60" x="417" y="347" as="geometry" />
+        </mxCell>
+        <mxCell id="tUDWqIW4GXrgs1DTi4tS-10" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Aufstrich des AP" vertex="1">
+          <mxGeometry height="200" width="215" x="325" y="384" as="geometry" />
+        </mxCell>
+        <mxCell id="tUDWqIW4GXrgs1DTi4tS-2" parent="tUDWqIW4GXrgs1DTi4tS-10" style="whiteSpace=wrap;html=1;" value="Öffnung&amp;nbsp;&lt;br&gt;&lt;b&gt;Na&lt;sub&gt;V&lt;/sub&gt;-Kanäle&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="45" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tUDWqIW4GXrgs1DTi4tS-12" edge="1" parent="tUDWqIW4GXrgs1DTi4tS-10" source="tUDWqIW4GXrgs1DTi4tS-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="tUDWqIW4GXrgs1DTi4tS-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tUDWqIW4GXrgs1DTi4tS-3" parent="tUDWqIW4GXrgs1DTi4tS-10" style="whiteSpace=wrap;html=1;" value="Verstärkung der Depolarisation" vertex="1">
+          <mxGeometry height="60" width="120" x="45" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="tUDWqIW4GXrgs1DTi4tS-4" edge="1" parent="tUDWqIW4GXrgs1DTi4tS-10" source="tUDWqIW4GXrgs1DTi4tS-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tUDWqIW4GXrgs1DTi4tS-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tUDWqIW4GXrgs1DTi4tS-13" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;b&gt;Na&lt;sub&gt;V&lt;/sub&gt;-Kanäle&amp;nbsp;&lt;/b&gt;&lt;br&gt;werden schnell wieder inaktiviert" vertex="1">
+          <mxGeometry height="60" width="120" x="290" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="tUDWqIW4GXrgs1DTi4tS-20" edge="1" parent="1" source="tUDWqIW4GXrgs1DTi4tS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tUDWqIW4GXrgs1DTi4tS-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tUDWqIW4GXrgs1DTi4tS-14" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;b&gt;K&lt;sub&gt;V&lt;/sub&gt;-Kanäle&lt;/b&gt;&lt;br&gt;öffnen" vertex="1">
+          <mxGeometry height="60" width="120" x="450" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="tUDWqIW4GXrgs1DTi4tS-21" edge="1" parent="1" source="tUDWqIW4GXrgs1DTi4tS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tUDWqIW4GXrgs1DTi4tS-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tUDWqIW4GXrgs1DTi4tS-15" parent="1" style="whiteSpace=wrap;html=1;" value="Repolarisierung" vertex="1">
+          <mxGeometry height="60" width="120" x="450" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="tUDWqIW4GXrgs1DTi4tS-23" edge="1" parent="1" source="tUDWqIW4GXrgs1DTi4tS-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tUDWqIW4GXrgs1DTi4tS-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tUDWqIW4GXrgs1DTi4tS-16" parent="1" style="whiteSpace=wrap;html=1;" value="Nach-Hyperpolarisierung" vertex="1">
+          <mxGeometry height="60" width="120" x="450" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="tUDWqIW4GXrgs1DTi4tS-17" edge="1" parent="1" source="tUDWqIW4GXrgs1DTi4tS-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tUDWqIW4GXrgs1DTi4tS-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tUDWqIW4GXrgs1DTi4tS-18" edge="1" parent="1" source="tUDWqIW4GXrgs1DTi4tS-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tUDWqIW4GXrgs1DTi4tS-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tUDWqIW4GXrgs1DTi4tS-22" parent="1" style="whiteSpace=wrap;html=1;" value="Alle Kanäle&lt;br&gt;schließen" vertex="1">
+          <mxGeometry height="60" width="120" x="450" y="850" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
