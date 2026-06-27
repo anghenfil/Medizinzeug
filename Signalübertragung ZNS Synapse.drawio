@@ -129,61 +129,106 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="LQDA0z0NxWbYVIpIbLIa-3" edge="1" parent="1" source="LQDA0z0NxWbYVIpIbLIa-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LQDA0z0NxWbYVIpIbLIa-5">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="715" />
+              <mxPoint x="80" y="735" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="LQDA0z0NxWbYVIpIbLIa-4" parent="1" style="whiteSpace=wrap;html=1;" value="Vesikel wird mit v-SNARE markiert" vertex="1">
-          <mxGeometry height="60" width="120" x="460" y="950" as="geometry" />
+          <mxGeometry height="60" width="120" x="20" y="660" as="geometry" />
         </mxCell>
         <mxCell id="LQDA0z0NxWbYVIpIbLIa-5" parent="1" style="whiteSpace=wrap;html=1;" value="Vesikel interagiert mit t-SNARE und wird in der aktiven Zone gebunden&amp;nbsp;" vertex="1">
-          <mxGeometry height="70" width="120" x="460" y="1040" as="geometry" />
+          <mxGeometry height="70" width="120" x="20" y="740" as="geometry" />
         </mxCell>
         <mxCell id="ktDEJ-mngiOGKDQfMYs--11" edge="1" parent="1" source="ktDEJ-mngiOGKDQfMYs--1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ktDEJ-mngiOGKDQfMYs--4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="75" />
+              <mxPoint x="80" y="95" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ktDEJ-mngiOGKDQfMYs--1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;Adaptormolekül&lt;/b&gt; stößt auf &lt;b&gt;Synaptotagamin&lt;/b&gt; (oder Synaptobrevin)" vertex="1">
-          <mxGeometry height="60" width="120" x="465" y="180" as="geometry" />
+          <mxGeometry height="60" width="120" x="20" y="20" as="geometry" />
         </mxCell>
         <mxCell id="ktDEJ-mngiOGKDQfMYs--13" edge="1" parent="1" source="ktDEJ-mngiOGKDQfMYs--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ktDEJ-mngiOGKDQfMYs--5">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="235" />
+              <mxPoint x="80" y="255" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ktDEJ-mngiOGKDQfMYs--3" parent="1" style="whiteSpace=wrap;html=1;" value="Adaptor rekrutiert &lt;b&gt;Clathrin&lt;/b&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="465" y="370" as="geometry" />
+          <mxGeometry height="60" width="120" x="20" y="180" as="geometry" />
         </mxCell>
         <mxCell id="ktDEJ-mngiOGKDQfMYs--12" edge="1" parent="1" source="ktDEJ-mngiOGKDQfMYs--4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ktDEJ-mngiOGKDQfMYs--3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="155" />
+              <mxPoint x="80" y="175" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ktDEJ-mngiOGKDQfMYs--4" parent="1" style="whiteSpace=wrap;html=1;" value="Adaptor bindet an &lt;b&gt;Plasmamembran&lt;/b&gt; &amp;amp; &lt;b&gt;Synaptotagmin&lt;/b&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="460" y="270" as="geometry" />
+          <mxGeometry height="60" width="120" x="20" y="100" as="geometry" />
         </mxCell>
         <mxCell id="ktDEJ-mngiOGKDQfMYs--14" edge="1" parent="1" source="ktDEJ-mngiOGKDQfMYs--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ktDEJ-mngiOGKDQfMYs--7">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="315" />
+              <mxPoint x="80" y="335" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ktDEJ-mngiOGKDQfMYs--5" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;b&gt;Clathrin&lt;/b&gt; bildet &lt;b&gt;Coat&lt;/b&gt; um Vesikel" vertex="1">
-          <mxGeometry height="60" width="120" x="465" y="470" as="geometry" />
+          <mxGeometry height="60" width="120" x="20" y="260" as="geometry" />
         </mxCell>
         <mxCell id="ktDEJ-mngiOGKDQfMYs--15" edge="1" parent="1" source="ktDEJ-mngiOGKDQfMYs--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ktDEJ-mngiOGKDQfMYs--8">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="395" />
+              <mxPoint x="80" y="415" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ktDEJ-mngiOGKDQfMYs--7" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;b&gt;Dynamin&lt;/b&gt; trennt Vesikel von Plasmamembran" vertex="1">
-          <mxGeometry height="60" width="120" x="465" y="560" as="geometry" />
+          <mxGeometry height="60" width="120" x="20" y="340" as="geometry" />
         </mxCell>
         <mxCell id="ktDEJ-mngiOGKDQfMYs--16" edge="1" parent="1" source="ktDEJ-mngiOGKDQfMYs--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ktDEJ-mngiOGKDQfMYs--9">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="475" />
+              <mxPoint x="80" y="495" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ktDEJ-mngiOGKDQfMYs--8" parent="1" style="whiteSpace=wrap;html=1;" value="Clathrin Coat wird entfernt" vertex="1">
-          <mxGeometry height="60" width="120" x="465" y="650" as="geometry" />
+          <mxGeometry height="60" width="120" x="20" y="420" as="geometry" />
         </mxCell>
         <mxCell id="ktDEJ-mngiOGKDQfMYs--17" edge="1" parent="1" source="ktDEJ-mngiOGKDQfMYs--9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ktDEJ-mngiOGKDQfMYs--10">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="555" />
+              <mxPoint x="80" y="575" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ktDEJ-mngiOGKDQfMYs--9" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;b&gt;Protonenpumpe&lt;/b&gt; azidifiziert Vesikel" vertex="1">
-          <mxGeometry height="60" width="120" x="465" y="750" as="geometry" />
+          <mxGeometry height="60" width="120" x="20" y="500" as="geometry" />
         </mxCell>
         <mxCell id="ktDEJ-mngiOGKDQfMYs--18" edge="1" parent="1" source="ktDEJ-mngiOGKDQfMYs--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LQDA0z0NxWbYVIpIbLIa-4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="635" />
+              <mxPoint x="80" y="655" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ktDEJ-mngiOGKDQfMYs--10" parent="1" style="whiteSpace=wrap;html=1;" value="Protonen werden gegen Neurotransmitter ausgetauscht" vertex="1">
-          <mxGeometry height="60" width="120" x="465" y="860" as="geometry" />
+          <mxGeometry height="60" width="120" x="20" y="580" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
