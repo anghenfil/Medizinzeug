@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" pages="2">
+<mxfile host="app.diagrams.net" pages="3">
   <diagram name="Überblick" id="_ofxYM4bEHIbibBSsOYF">
     <mxGraphModel dx="1253" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -83,10 +83,66 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bddqhF-cqqI-qMLGQSTJ" name="Exozytose">
-    <mxGraphModel dx="1044" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1474" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="N00AWcG7lNqH9geCuM41-9" edge="1" parent="1" source="nvMQpAYlqJBDPdo2p-ev-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="N00AWcG7lNqH9geCuM41-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nvMQpAYlqJBDPdo2p-ev-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Aktionspotenzial erreicht aktive Zone" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="N00AWcG7lNqH9geCuM41-10" edge="1" parent="1" source="N00AWcG7lNqH9geCuM41-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="N00AWcG7lNqH9geCuM41-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N00AWcG7lNqH9geCuM41-1" parent="1" style="whiteSpace=wrap;html=1;" value="Öffnung spannungsabhängiger Ca²⁺-Kanäle" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="N00AWcG7lNqH9geCuM41-14" edge="1" parent="1" source="N00AWcG7lNqH9geCuM41-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="N00AWcG7lNqH9geCuM41-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N00AWcG7lNqH9geCuM41-2" parent="1" style="whiteSpace=wrap;html=1;" value="Synaptotagmin bindet zusätzlich an Ca²⁺" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="N00AWcG7lNqH9geCuM41-13" edge="1" parent="1" source="N00AWcG7lNqH9geCuM41-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="N00AWcG7lNqH9geCuM41-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N00AWcG7lNqH9geCuM41-3" parent="1" style="whiteSpace=wrap;html=1;" value="Konformations-änderung des SNARE-Komplex" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="N00AWcG7lNqH9geCuM41-16" edge="1" parent="1" source="N00AWcG7lNqH9geCuM41-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="N00AWcG7lNqH9geCuM41-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N00AWcG7lNqH9geCuM41-12" parent="1" style="whiteSpace=wrap;html=1;" value="SNAREs &quot;umschlingen&quot; sich" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="N00AWcG7lNqH9geCuM41-15" parent="1" style="whiteSpace=wrap;html=1;" value="Fusion des Vesikels mit der Plasmamembran" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="720" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="0aJG_c5hS1lkP13UM_cj" name="Endozytose">
+    <mxGraphModel dx="1253" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LQDA0z0NxWbYVIpIbLIa-1" edge="1" parent="1" source="LQDA0z0NxWbYVIpIbLIa-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=4" target="LQDA0z0NxWbYVIpIbLIa-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LQDA0z0NxWbYVIpIbLIa-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Vesikel wird mit Transmitter gefüllt" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="LQDA0z0NxWbYVIpIbLIa-3" edge="1" parent="1" source="LQDA0z0NxWbYVIpIbLIa-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="LQDA0z0NxWbYVIpIbLIa-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LQDA0z0NxWbYVIpIbLIa-4" parent="1" style="whiteSpace=wrap;html=1;" value="Vesikel wird mit v-SNARE markiert" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="LQDA0z0NxWbYVIpIbLIa-5" parent="1" style="whiteSpace=wrap;html=1;" value="Vesikel interagiert mit t-SNARE und wird in der aktiven Zone gebunden&amp;nbsp;" vertex="1">
+          <mxGeometry height="70" width="120" x="160" y="370" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
