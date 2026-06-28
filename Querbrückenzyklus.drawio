@@ -1,9 +1,83 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Seite-1" id="xqmsHzHX7hLkGI1khtDN">
-    <mxGraphModel dx="1253" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1044" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4LU1Hvj0eCK-aY6ffBlV-3" edge="1" parent="1" source="4LU1Hvj0eCK-aY6ffBlV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="4LU1Hvj0eCK-aY6ffBlV-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4LU1Hvj0eCK-aY6ffBlV-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;Myosin-ATPase&lt;/b&gt; spaltet ATP zu ADP+P" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4LU1Hvj0eCK-aY6ffBlV-24" edge="1" parent="1" source="4LU1Hvj0eCK-aY6ffBlV-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="4LU1Hvj0eCK-aY6ffBlV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4LU1Hvj0eCK-aY6ffBlV-2" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;b&gt;Myosinköpfchen&lt;/b&gt; ändert Konformation&amp;nbsp;&lt;br&gt;-&amp;gt; wird vorgespannt" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="4LU1Hvj0eCK-aY6ffBlV-6" edge="1" parent="1" source="4LU1Hvj0eCK-aY6ffBlV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="4LU1Hvj0eCK-aY6ffBlV-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4LU1Hvj0eCK-aY6ffBlV-4" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Zelle wird erregt" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="4LU1Hvj0eCK-aY6ffBlV-8" edge="1" parent="1" source="4LU1Hvj0eCK-aY6ffBlV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="4LU1Hvj0eCK-aY6ffBlV-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4LU1Hvj0eCK-aY6ffBlV-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="intrazelluläres Ca²⁺ ⇑" vertex="1">
+          <mxGeometry height="60" width="120" x="210" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="4LU1Hvj0eCK-aY6ffBlV-10" edge="1" parent="1" source="4LU1Hvj0eCK-aY6ffBlV-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="4LU1Hvj0eCK-aY6ffBlV-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4LU1Hvj0eCK-aY6ffBlV-7" parent="1" style="whiteSpace=wrap;html=1;" value="Begleitproteine (u.a. &lt;b&gt;Tropomyosin&lt;/b&gt;) binden an Ca²⁺" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="4LU1Hvj0eCK-aY6ffBlV-12" edge="1" parent="1" source="4LU1Hvj0eCK-aY6ffBlV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="4LU1Hvj0eCK-aY6ffBlV-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4LU1Hvj0eCK-aY6ffBlV-9" parent="1" style="whiteSpace=wrap;html=1;" value="Bindungsstellen an Aktinfilamenten werden frei" vertex="1">
+          <mxGeometry height="60" width="120" x="530" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="4LU1Hvj0eCK-aY6ffBlV-14" edge="1" parent="1" source="4LU1Hvj0eCK-aY6ffBlV-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="4LU1Hvj0eCK-aY6ffBlV-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4LU1Hvj0eCK-aY6ffBlV-11" parent="1" style="whiteSpace=wrap;html=1;" value="Myosin bindet an Aktin" vertex="1">
+          <mxGeometry height="60" width="120" x="680" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="4LU1Hvj0eCK-aY6ffBlV-16" edge="1" parent="1" source="4LU1Hvj0eCK-aY6ffBlV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="4LU1Hvj0eCK-aY6ffBlV-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4LU1Hvj0eCK-aY6ffBlV-13" parent="1" style="whiteSpace=wrap;html=1;" value="Myosinkopf gibt &lt;b&gt;ADP und P&lt;/b&gt; ab" vertex="1">
+          <mxGeometry height="60" width="120" x="680" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="4LU1Hvj0eCK-aY6ffBlV-18" edge="1" parent="1" source="4LU1Hvj0eCK-aY6ffBlV-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="4LU1Hvj0eCK-aY6ffBlV-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4LU1Hvj0eCK-aY6ffBlV-15" parent="1" style="whiteSpace=wrap;html=1;" value="Myosinkopf knickt um 45 °" vertex="1">
+          <mxGeometry height="60" width="120" x="525" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="4LU1Hvj0eCK-aY6ffBlV-17" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;b&gt;Kraftschlag&lt;/b&gt;: Myosin zieht Aktin an sich" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="4LU1Hvj0eCK-aY6ffBlV-22" edge="1" parent="1" source="4LU1Hvj0eCK-aY6ffBlV-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="4LU1Hvj0eCK-aY6ffBlV-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4LU1Hvj0eCK-aY6ffBlV-19" parent="1" style="whiteSpace=wrap;html=1;" value="neues &lt;b&gt;ATP&lt;/b&gt; bindet an Myosinkopf" vertex="1">
+          <mxGeometry height="60" width="120" x="220" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="4LU1Hvj0eCK-aY6ffBlV-23" edge="1" parent="1" source="4LU1Hvj0eCK-aY6ffBlV-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="4LU1Hvj0eCK-aY6ffBlV-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20" y="420" />
+              <mxPoint x="20" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4LU1Hvj0eCK-aY6ffBlV-21" parent="1" style="whiteSpace=wrap;html=1;" value="Querbrücken zwischen Myosin und Aktin lösen sich" vertex="1">
+          <mxGeometry height="60" width="120" x="70" y="390" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
