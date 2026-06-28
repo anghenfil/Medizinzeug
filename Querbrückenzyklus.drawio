@@ -98,6 +98,9 @@
         <mxCell id="4LU1Hvj0eCK-aY6ffBlV-21" parent="1" style="whiteSpace=wrap;html=1;" value="Querbrücken zwischen Myosin und Aktin lösen sich" vertex="1">
           <mxGeometry height="60" width="120" x="259" y="81" as="geometry" />
         </mxCell>
+        <mxCell id="4LU1Hvj0eCK-aY6ffBlV-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=22;" value="Querbrückenzyklus" vertex="1">
+          <mxGeometry height="140" width="292" x="402" y="438" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
