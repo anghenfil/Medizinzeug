@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Seite-1" id="fchRBAmqBeLCbNkJXZUF">
+    <mxGraphModel dx="1165" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Yh355-cK3oePTbSR0O-F-4" edge="1" parent="1" source="Yh355-cK3oePTbSR0O-F-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=none;fontColor=default;" target="Yh355-cK3oePTbSR0O-F-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yh355-cK3oePTbSR0O-F-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=none;" value="Karte wird&amp;nbsp;&lt;br&gt;angezeigt" vertex="1">
+          <mxGeometry height="60" width="120" x="485" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Yh355-cK3oePTbSR0O-F-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontStyle=1;labelBackgroundColor=none;" value="Lernstufe &quot;30s 7m&quot;" vertex="1">
+          <mxGeometry height="30" width="210" x="440" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Yh355-cK3oePTbSR0O-F-6" edge="1" parent="1" source="Yh355-cK3oePTbSR0O-F-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Yh355-cK3oePTbSR0O-F-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yh355-cK3oePTbSR0O-F-7" connectable="0" parent="Yh355-cK3oePTbSR0O-F-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Ja" vertex="1">
+          <mxGeometry relative="1" x="-0.1429" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yh355-cK3oePTbSR0O-F-9" edge="1" parent="1" source="Yh355-cK3oePTbSR0O-F-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Yh355-cK3oePTbSR0O-F-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yh355-cK3oePTbSR0O-F-10" connectable="0" parent="Yh355-cK3oePTbSR0O-F-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Nein" vertex="1">
+          <mxGeometry relative="1" x="-0.44" y="2" as="geometry">
+            <mxPoint y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yh355-cK3oePTbSR0O-F-3" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=none;fontStyle=1" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Richtig beantwortet?&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="85" x="502.5" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Yh355-cK3oePTbSR0O-F-13" edge="1" parent="1" source="Yh355-cK3oePTbSR0O-F-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Yh355-cK3oePTbSR0O-F-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yh355-cK3oePTbSR0O-F-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=none;" value="Karte wird nach &lt;b&gt;7 Minuten&lt;/b&gt; erneut&lt;br&gt;angezeigt" vertex="1">
+          <mxGeometry height="60" width="120" x="485" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Yh355-cK3oePTbSR0O-F-11" edge="1" parent="1" source="Yh355-cK3oePTbSR0O-F-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Yh355-cK3oePTbSR0O-F-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710.03" y="180" />
+              <mxPoint x="545" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yh355-cK3oePTbSR0O-F-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=none;" value="Karte wird nach &lt;b&gt;30 Sekunden&lt;/b&gt; erneut&lt;br&gt;angezeigt" vertex="1">
+          <mxGeometry height="60" width="120" x="650" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Yh355-cK3oePTbSR0O-F-15" edge="1" parent="1" source="Yh355-cK3oePTbSR0O-F-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Yh355-cK3oePTbSR0O-F-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Yh355-cK3oePTbSR0O-F-19" connectable="0" parent="Yh355-cK3oePTbSR0O-F-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Nein" vertex="1">
+          <mxGeometry relative="1" x="-0.6066" y="-1" as="geometry">
+            <mxPoint x="-42" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yh355-cK3oePTbSR0O-F-17" edge="1" parent="1" source="Yh355-cK3oePTbSR0O-F-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Yh355-cK3oePTbSR0O-F-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="545" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yh355-cK3oePTbSR0O-F-18" connectable="0" parent="Yh355-cK3oePTbSR0O-F-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;div&gt;Ja&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.2343" as="geometry">
+            <mxPoint y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yh355-cK3oePTbSR0O-F-12" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=none;fontStyle=1" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Richtig beantwortet?&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="85" x="502.5" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="Yh355-cK3oePTbSR0O-F-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;labelBackgroundColor=none;" value="Karte wird erst am nächsten Tag wieder angezeigt" vertex="1">
+          <mxGeometry height="60" width="120" x="485" y="525" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
